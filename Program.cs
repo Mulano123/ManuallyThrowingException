@@ -16,7 +16,8 @@ namespace ManuallyThrowingException
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAddProduct());//
+            Application.Run(new frmAddProduct());
+            // final
         }
     }
 }
